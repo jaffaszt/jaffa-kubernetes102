@@ -14,8 +14,8 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 ![](README_IMAGES/OC.png)
 
 A cluster will be allocated for you , this might take a few secounds.... 
-<! ( optional not part of the workshop  : you may run Lab 1 ,2 ,3 to learn about Openshift ) >
-# To run the workshop using the Openshift consule run the whole LAB1 etc.  , alternatively if you want to use the kubectl cli continue to step 3 
+<!-- ( optional not part of the workshop  : you may run Lab 1 ,2 ,3 to learn about Openshift ) -->
+# To run the workshop using the Openshift consule run LAB1 , alternatively if you want to use the kubectl cli continue to step 3 
 
 3. click on Exercise 3 in Lab 1 
 
