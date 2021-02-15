@@ -87,6 +87,6 @@ git clone https://github.com/IBM/kube101.git
  
  
 # The LAB 
-From this point on run Lab1 , Lab2 , Lab3 from (https://ibm.github.io/kube101/Lab1/)
+From this point on run Lab1 (from step 1 no need to run the pre-requistes ) , Lab2 , Lab3 from (https://ibm.github.io/kube101/Lab1/)
  
 
